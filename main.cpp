@@ -2,6 +2,7 @@
 #include <fstream>
 #include <string>
 #include <vector>
+#include <sstream>
 #include "simulator.h"
 #include "process.h"
 #include "generator.h"
